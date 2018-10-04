@@ -10,4 +10,5 @@ int main()
     char godini [20];
     cin>>godini;
     return 0;
+    //Kurtish mivki
 }
